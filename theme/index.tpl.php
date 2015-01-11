@@ -16,7 +16,7 @@
         <?=$header?>
         </div>
         <div id="menu-wrap">
-            <?= CNavigation::GenerateMenu($navmenu); ?>
+            <?= Navigation::GenerateMenu($navmenu); ?>
         </div>
     </header>
     <div id='main'>

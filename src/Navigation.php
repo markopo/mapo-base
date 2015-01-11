@@ -1,9 +1,9 @@
 <?php
 
 /**
- * Class CNavigation
+ * Class Navigation
  */
-class CNavigation {
+class Navigation {
 
     /**
      * @param $menu
