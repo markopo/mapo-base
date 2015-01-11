@@ -69,7 +69,7 @@ $mapo['favicon']    = 'mapo.png';
 $mapo['navmenu'] = array(
     'callback' => 'selectedPage',
     'items' => array(
-    'me' => array('text' => 'Me', 'url' => 'me.php', 'class'=>null))
+    'me' => array('text' => 'Hello', 'url' => 'hello.php', 'class'=>null))
 );
 
 /**
